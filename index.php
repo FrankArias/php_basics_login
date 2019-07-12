@@ -23,7 +23,7 @@ if(isset($_SESSION['user_id'])){
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to your App</title>
+    <title>PHP Basics | Login </title>
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
